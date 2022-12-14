@@ -1,0 +1,17 @@
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\Zver\source\repos\API\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Zver\source\repos\API\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

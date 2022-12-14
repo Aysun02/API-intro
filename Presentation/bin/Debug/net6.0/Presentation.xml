@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Controllers.CategoryController.GetAll">
+             <summary>
+            Returns a list of categories
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.CategoryController.Get(System.Int32)">
+             <summary>
+            Used to find a category by id
+             </summary>
+             <param name="id"></param>
+             <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.CategoryController.Create(Businness.DTOs.Category.Request.CategoryCreateDTO)">
+            <summary>
+            It is used to create a category
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Presentation.Controllers.CategoryController.Update(Businness.DTOs.Category.Request.CategoryUpdateDTO)">
+            <summary>
+            Used for category editing
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.CategoryController.Delete(System.Int32)">
+            <summary>
+            Used to delete a category
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

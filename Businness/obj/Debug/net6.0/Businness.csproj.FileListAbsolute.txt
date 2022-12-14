@@ -1,0 +1,17 @@
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.AssemblyInfo.cs
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\Businness.deps.json
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\Businness.dll
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\Businness.pdb
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\Core.dll
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zver\source\repos\API\Businness\bin\Debug\net6.0\Core.pdb
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.csproj.CopyComplete
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.dll
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\refint\Businness.dll
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\Businness.pdb
+C:\Users\Zver\source\repos\API\Businness\obj\Debug\net6.0\ref\Businness.dll
